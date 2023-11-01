@@ -13,7 +13,7 @@ Vous y trouverai dans différents dossiers répartie selon les niveaux d'apprent
 7) les exceptions
 8) les modules
 9) les fichiers
-10) Salute
+10) Sqlite
 11) Flask et FastApi
 
 Après chaques thématiques il y a trois projets effectués dessus pour bien comprendre. 
