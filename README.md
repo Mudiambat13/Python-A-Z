@@ -12,6 +12,7 @@ Vous y trouverai dans différents dossiers répartie selon les niveaux d'apprent
 6) les classes
 7) les exceptions
 8) les modules
+9) les fichiers
 
 Après chaques thématiques il y a trois projets effectués dessus pour bien comprendre. 
 
