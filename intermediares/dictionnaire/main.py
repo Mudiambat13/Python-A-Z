@@ -10,3 +10,8 @@ print(my_dict.keys())
 
 print(my_dict.values())
 # print dictionary values
+
+for key in my_dict.keys():
+     for value in my_dict.values():
+         print(key, value)
+# print dictionary keys and values
