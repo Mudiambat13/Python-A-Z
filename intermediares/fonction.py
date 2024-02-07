@@ -1,1 +1,4 @@
-create fonction file
+def DireBonjour():
+   print('Bonjour') 
+
+DireBonjour() 
