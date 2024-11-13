@@ -1,1 +1,4 @@
-create fonction file
+def Salutation (message) :
+   print(message) 
+
+Salutation(message)
